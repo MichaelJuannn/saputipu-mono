@@ -1,0 +1,5 @@
+node_modules
+ml-services/src/model/*.h5
+ml-services/Lib
+ml-services/Scripts
+ml-services/Include
